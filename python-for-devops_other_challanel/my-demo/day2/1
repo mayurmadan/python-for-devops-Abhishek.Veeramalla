@@ -1,0 +1,7 @@
+# Variable assignment
+x = 10
+name = "John"
+
+# Identifiers
+my_variable = 5
+print (x,name,my_variable)
