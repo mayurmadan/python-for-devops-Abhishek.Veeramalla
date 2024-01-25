@@ -1,8 +1,0 @@
-#!/bin/bash
-docker_conatiner_list=$(docker ps)
-echo "$docker_conatiner_list"
-
-for container in docker_container_list; 
-do 
- docker rm -f $container
-done
