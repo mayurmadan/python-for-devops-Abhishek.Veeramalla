@@ -11,7 +11,7 @@ url = "https://groots-mayur.atlassian.net/rest/api/3/project"
 
 API_TOKEN="<token here>"
 auth = HTTPBasicAuth("<email here>", API_TOKEN)
-#auth = HTTPBasicAuth("mayur@groots.in", "ATATT3xFfGF0ySEwZuMm9XcPLbPst2N0J88YWOLY49qcYLPbgfnfpsi7bnM8lDc8Pf1bkFV6WxROADQveSZkLQK5EeTvlKgRYi79CqjyJdauCmba8OlzMtxE2TnCthvXmhiBcxHz-N8bLLj3qyGnHRhqW-VNEFWFcMepxdrTKWAt7Qe9OugSHAs=5D1115E7")
+#auth = HTTPBasicAuth("<email here>", "<token-here>")
 
 
 headers = {
