@@ -9,7 +9,7 @@ import json
 
 url = "https://groots-mayur.atlassian.net/rest/api/3/project"
 
-auth = HTTPBasicAuth("mayur@groots.in", "ATATT3xFfGF0xp__yIHK4Cj7j1vJQsTTJWAmvrPx8uXj60edzsfYCWE9tNjR3YvUqfNRcn-_HrbhEAs-mcJ_rhV0ID2wORhJAvkb4VRy8okegGm71Tnkxd-3dAP3DfsmrzLGz7Z1e7tspoeZ4bx6Beyb32VKKSptR7jxw6tM-GRUO6lijMDoaVY=9585F3E5")
+auth = HTTPBasicAuth("mayur@groots.in", "ATATT3xFfGF0xp__yIHK4Cj7j1vJQsTTJWAmvrPx8uXj60edzsfYCWE9tNjR3YvUqfNRcn-_HrbhEAs-mcJ_rhV0ID2wORhJAvkb4VRy8okegGm71Tnkxd-3dAP3DfsmrzLGz7Z1e7tspoeZ4bx6Beyb32VKKSptR7jxw6tM-GRUO6lijMDoaVY=9585F3E")
 
 headers = {
   "Accept": "application/json"
